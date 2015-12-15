@@ -1,0 +1,25 @@
+{
+  "name": "minimongo_sample1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ovrmrw@github.com/ovrmrw/minimongo_sample1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovrmrw/minimongo_sample1/issues"
+  },
+  "homepage": "https://github.com/ovrmrw/minimongo_sample1#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "lodash": "3.10.1",
+    "minimongo": "3.6.0"
+  }
+}
